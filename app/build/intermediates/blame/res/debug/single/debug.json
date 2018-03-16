@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout-sw600dp_reconnect.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/reconnect.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/drawable-mdpi_scr3310v2.png.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-mdpi/scr3310v2.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/drawable-ldpi_scr3310v2.png.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-ldpi/scr3310v2.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout_connect.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/connect.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/drawable_main_bg_selector.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable/main_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/drawable-hdpi_scr3310v2.png.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-hdpi/scr3310v2.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout_reconnect.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/reconnect.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout-sw600dp_main.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/main.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/layout-sw600dp_connect.xml.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/connect.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/IdentiveGetZ/app/build/intermediates/res/merged/debug/drawable-xhdpi_scr3310v2.png.flat",
+        "source": "/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-xhdpi/scr3310v2.png"
+    }
+]

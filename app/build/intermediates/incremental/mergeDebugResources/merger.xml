@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res"/><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/build/generated/res/rs/debug"/><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res"><file name="main_bg_selector" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable/main_bg_selector.xml" qualifiers="" type="drawable"/><file name="main" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="connect" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/connect.xml" qualifiers="" type="layout"/><file name="reconnect" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout/reconnect.xml" qualifiers="" type="layout"/><file path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/values/strings.xml" qualifiers=""><string name="Reader">Reader : </string><string name="atr">ATR Value : </string><string name="connect">Card Connect</string><string name="req">Select Req File</string><string name="Disconnect">Card Disconnect</string><string name="app_name">IdentiveGetZ</string><string name="Reconnect">Card Reconnect</string><string name="Transmit">Transmit</string><string name="NextCommand">Next Command</string><string name="RunScenario">Run Scenario</string><string name="SelectReader">Select Reader</string><string name="GetStatus">Start Tracking</string><string name="scardcontrol">SCardControl</string><string name="SelectProtocol">Protocol type</string><string name="SelectInitialization">Initialization</string><string name="SelectMode">Mode</string><string name="ok">OK</string><string name="GetAttrib">Get Attribute</string><string name="SetAttrib">Set Attribute</string><string-array name="ScardGetAttribList">
+        <item>SCARD_ATTR_VENDOR_NAME</item>
+        <item>SCARD_ATTR_VENDOR_IFD_TYPE</item>
+        <item>SCARD_ATTR_VENDOR_IFD_VERSION</item>
+        <item>SCARD_ATTR_VENDOR_IFD_SERIAL_NO</item>
+        <item>SCARD_ATTR_CHANNEL_ID</item>
+        <item>SCARD_ATTR_PROTOCOL_TYPES</item>
+        <item>SCARD_ATTR_DEFAULT_CLK</item>
+        <item>SCARD_ATTR_MAX_CLK</item>
+        <item>SCARD_ATTR_DEFAULT_DATA_RATE</item>
+        <item>SCARD_ATTR_MAX_DATA_RATE</item>
+        <item>SCARD_ATTR_MAX_IFSD</item>
+        <item>SCARD_ATTR_POWER_MGMT_SUPPORT</item>
+        <item>SCARD_ATTR_CHARACTERISTICS</item>
+        <item>SCARD_ATTR_CURRENT_PROTOCOL_TYPE</item>
+        <item>SCARD_ATTR_CURRENT_CLK</item>
+        <item>SCARD_ATTR_CURRENT_F</item>
+        <item>SCARD_ATTR_CURRENT_D</item>
+        <item>SCARD_ATTR_CURRENT_N</item>
+        <item>SCARD_ATTR_CURRENT_W</item>
+        <item>SCARD_ATTR_CURRENT_IFSC</item>
+        <item>SCARD_ATTR_CURRENT_IFSD</item>
+        <item>SCARD_ATTR_CURRENT_BWT</item>
+        <item>SCARD_ATTR_CURRENT_CWT</item>
+        <item>SCARD_ATTR_CURRENT_EBC_ENCODING</item>
+      	<item>SCARD_ATTR_ICC_PRESENCE</item>
+        <item>SCARD_ATTR_ICC_INTERFACE_STATUS</item>
+        <item>SCARD_ATTR_ATR_STRING</item>
+        <item>SCARD_ATTR_ICC_TYPE_PER_ATR</item>
+       	<item>SCARD_ATTR_DEVICE_UNIT</item>
+        <item>SCARD_ATTR_DEVICE_IN_USE</item>
+        <item>SCARD_ATTR_DEVICE_FRIENDLY_NAME</item>
+        <item>SCARD_ATTR_DEVICE_SYSTEM_NAME</item>
+    </string-array><string-array name="SCardModeList">
+        <item>Exclusive Mode</item>
+        <item>Shared Mode</item>
+        <item>Direct Mode</item>
+    </string-array><string-array name="ScardProtocolList">
+        <item>Protocol T0</item>
+        <item>Protocol T1</item>
+        <item>Protocol Tx</item>
+    </string-array><string-array name="ScardInitializationList">
+        <item>Leave Card</item>
+        <item>Reset Card</item>
+        <item>Unpower Card</item>
+        <item>Eject Card</item>
+    </string-array></file><file name="scr3310v2" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-xhdpi/scr3310v2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device_filter" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/xml/device_filter.xml" qualifiers="" type="xml"/><file name="scr3310v2" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-hdpi/scr3310v2.png" qualifiers="hdpi-v4" type="drawable"/><file name="scr3310v2" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-ldpi/scr3310v2.png" qualifiers="ldpi-v4" type="drawable"/><file name="main" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/main.xml" qualifiers="sw600dp-v13" type="layout"/><file name="connect" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/connect.xml" qualifiers="sw600dp-v13" type="layout"/><file name="reconnect" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/layout-sw600dp/reconnect.xml" qualifiers="sw600dp-v13" type="layout"/><file name="scr3310v2" path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/main/res/drawable-mdpi/scr3310v2.png" qualifiers="mdpi-v4" type="drawable"/></source><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/build/generated/res/rs/debug"/><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/nakharin/Desktop/IdentiveGetZ/app/src/debug/res"/></dataSet><mergedItems/></merger>
