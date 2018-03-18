@@ -170,6 +170,7 @@
             android:layout_alignRight="@+id/editText1"
             android:ems="10"
             android:focusable="true"
+            android:hint="command"
             android:inputType="text"
             android:padding="15dp"
             android:textSize="20dp" />
@@ -241,19 +242,17 @@
             android:textSize="15dp" 
             android:onClick="onClickSetAttrib" android:visibility="invisible"/>
 
-        <EditText
-            android:id="@+id/EditText03"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/Button06"
-            android:layout_alignBottom="@+id/Button06"
-            android:layout_alignParentLeft="true"
-            android:layout_alignRight="@+id/spinner1"
-            android:ems="10"
-            android:focusable="true"
-            android:inputType="text"
-            android:padding="15dp"
-            android:textSize="10pt" />
+    <EditText
+        android:id="@+id/EditText03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/Button06"
+        android:layout_alignParentLeft="true"
+        android:ems="10"
+        android:focusable="true"
+        android:inputType="text"
+        android:padding="15dp"
+        android:textSize="10pt" />
 
         <EditText
             android:id="@+id/editText4"
